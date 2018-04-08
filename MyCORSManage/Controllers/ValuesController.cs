@@ -8,7 +8,7 @@ using System.Web.Http.Cors;
 
 namespace MyCORSManage.Controllers
 {
-    //[Authorize]用户登录验证
+    //[Authorize]
     public class ValuesController : ApiController
     {
         // GET api/values
